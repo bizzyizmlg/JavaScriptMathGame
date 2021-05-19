@@ -10,3 +10,6 @@ Each correct answer is a point
 After the 60 seconds is up then its' Game Over 
 
 Then click Reset Game
+
+![image (2)](https://user-images.githubusercontent.com/73559137/118743801-14f58b80-b821-11eb-9fce-18077653a9cb.png)
+
