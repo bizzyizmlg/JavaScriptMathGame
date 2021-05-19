@@ -13,3 +13,7 @@ When user choose correct answer
 When user chooses wrong answer
 
 ![image (5)](https://user-images.githubusercontent.com/73559137/118744088-aa911b00-b821-11eb-9899-c5082cd64380.png)
+
+End of game with calculated points
+
+![image (6)](https://user-images.githubusercontent.com/73559137/118744225-ed52f300-b821-11eb-8b73-d0208e36fbc6.png)
