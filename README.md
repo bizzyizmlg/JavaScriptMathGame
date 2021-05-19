@@ -1,3 +1,6 @@
+How to play?
+You have 60 seconds to get as many answers right in that amount of time. Good Luck!
+
 Start of the game
 
 ![image (2)](https://user-images.githubusercontent.com/73559137/118743801-14f58b80-b821-11eb-9fce-18077653a9cb.png)
